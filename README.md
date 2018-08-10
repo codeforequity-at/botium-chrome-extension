@@ -18,7 +18,7 @@ Or just download as zip file to your local directory
 ### 2. Build extension
 
 	$ npm install
-	$ npm chromedev
+	$ npm run chromedev
 
 ### 3. Enable Chrome Developer Mode
 
